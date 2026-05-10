@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Kohaku",
+    "nameCn": "红白",
+    "sizeRange": "15-18cm",
+    "price": {
+      "min": 380,
+      "max": 480
+    },
+    "image": "/images/kohaku.jpg",
+    "currency": "RM"
+  },
+  {
+    "id": 2,
+    "nameEn": "Benigoi",
+    "nameCn": "红鲤",
+    "sizeRange": "15-18cm",
+    "price": {
+      "min": 380,
+      "max": 380
+    },
+    "image": "/images/benigoi.jpg",
+    "currency": "RM"
+  },
+  {
+    "id": 3,
+    "nameEn": "Ginrin Benigoi",
+    "nameCn": "银鳞红鲤",
+    "sizeRange": "15-17cm",
+    "price": {
+      "min": 380,
+      "max": 380
+    },
+    "image": "/images/ginrin-benigoi.jpg",
+    "currency": "RM"
+  },
+  {
+    "id": 4,
+    "nameEn": "Yamabuki Ogon",
+    "nameCn": "黄金",
+    "sizeRange": "16-18cm",
+    "price": {
+      "min": 380,
+      "max": 380
+    },
+    "image": "/images/yamabuki-ogon.jpg",
+    "currency": "RM"
+  },
+  {
+    "id": 5,
+    "nameEn": "Hi-utsuri",
+    "nameCn": "绯写",
+    "sizeRange": "15-17cm",
+    "price": {
+      "min": 380,
+      "max": 380
+    },
+    "image": "/images/hi-utsuri.jpg",
+    "currency": "RM"
+  },
+  {
+    "id": 6,
+    "nameEn": "Kujaku",
+    "nameCn": "孔雀",
+    "sizeRange": "15-17cm",
+    "price": {
+      "min": 380,
+      "max": 380
+    },
+    "image": "/images/kujaku.jpg",
+    "currency": "RM"
+  },
+  {
+    "id": 7,
+    "nameEn": "Mix Koi",
+    "nameCn": "混合锦鲤",
+    "sizeRange": "15-17cm",
+    "price": {
+      "min": 280,
+      "max": 280
+    },
+    "image": "/images/mix-koi.jpg",
+    "currency": "RM"
+  }
+]
